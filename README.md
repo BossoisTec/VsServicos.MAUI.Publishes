@@ -1,0 +1,1 @@
+# VsServicos.MAUI.Publishes
